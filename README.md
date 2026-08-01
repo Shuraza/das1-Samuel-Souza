@@ -9,8 +9,9 @@
 
 ## Meu conhecimento atual
 
-Experiência prática focada no desenvolvimento backend utilizando linguagens do mercado como Python, Java, PHP entre outras; além de criar interfaces web dinâmicas utilizando HTML, CSS e JavaScript com persistência de dados local. Combinando uma sólida base conceitual com a implementação manual de estruturas de dados como pilhas, filas e listas encadeadas para resolver problemas lógicos, com uma forte vivência em boas práticas de mercado, incluindo versionamento colaborativo com Git, fluxos de Pull Request e Code Review em equipe.
-Modelagem e manipulação de arquiteturas relacionais (SQL) integradas a sistemas de software, garantindo a integridade dos dados por meio de chaves estrangeiras e relacionamentos bem estruturados.
+- Experiência prática focada no desenvolvimento backend utilizando linguagens do mercado como Python, Java, PHP entre outras; além de criar interfaces web dinâmicas utilizando HTML, CSS e JavaScript com persistência de dados local. Combinando uma sólida base conceitual com a implementação manual de estruturas de dados como pilhas, filas e listas encadeadas para resolver problemas lógicos, com uma forte vivência em boas práticas de mercado, incluindo versionamento colaborativo com Git, fluxos de Pull Request e Code Review em equipe.
+
+- Modelagem e manipulação de arquiteturas relacionais (SQL) integradas a sistemas de software, garantindo a integridade dos dados por meio de chaves estrangeiras e relacionamentos bem estruturados.
 
 ## Minhas expectativas
 
@@ -20,10 +21,10 @@ Modelagem e manipulação de arquiteturas relacionais (SQL) integradas a sistema
 
 ## Área de interesse
 
-Tenho grande interesse em tratamento de dados, cybersegurança num geral e forense digital.
+- Tenho grande interesse em tratamento de dados, cybersegurança num geral e forense digital.
 
 ## O que considero um software bem projetado?
 
-Não se trata de ter o código mais complexo ou usar a tecnologia mais recente, mas sim de respeitar princípios sólidos de engenharia, onde o software atinge o equilíbrio perfeito entre atender às necessidades reais do usuário, seja seguro, resiliente e coeso.
+- Não se trata de ter o código mais complexo ou usar a tecnologia mais recente, mas sim de respeitar princípios sólidos de engenharia, onde o software atinge o equilíbrio perfeito entre atender às necessidades reais do usuário, seja seguro, resiliente e coeso.
 
 
